@@ -1,0 +1,3 @@
+import tuttle.turtle
+
+t = turtle.Turtle()
